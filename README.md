@@ -43,7 +43,7 @@ Este dashboard fue diseñado para mejorar el control financiero y facilitar la t
 📷 Vista previa
 
 Overview--> images/Gasto mensual-anual y por proveed.png
-![Forecast](images/Forecast de cierre.png)
+Forecast--> images/Forecast de cierre.png
 
 💡 Valor generado
 Este dashboard permite:
